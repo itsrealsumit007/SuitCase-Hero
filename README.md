@@ -35,8 +35,8 @@ A fast-paced arcade game where you help manage luggage at a busy airport! Match 
 ## 📦 Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/suitcase-hero.git
-cd suitcase-hero
+git clone https://github.com/itsrealsumit007/SuitCase-Hero.git
+cd SuitCase-Hero
 
 2. Install Pygame:
 bash
